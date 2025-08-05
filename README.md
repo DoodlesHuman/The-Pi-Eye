@@ -1,4 +1,4 @@
-# The Pi-Eye: An IoT-Enabled OCR and Text-to-Speech Reader for Visually Impaired Students
+# The Pi-Eye: An IoT-Enabled OCR and Text-to-Speech Reader for Visually Impaired
 
 ## Abstract
 
