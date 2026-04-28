@@ -2,7 +2,7 @@
 
 import requests
 
-API_KEY = '4ad763d7c288957'
+API_KEY = '' # Provide OCR API Key
 
 def ocrspace(filename, overlay=False, api_key=API_KEY, language='eng'):
     """
