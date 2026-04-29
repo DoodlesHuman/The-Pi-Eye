@@ -1,6 +1,6 @@
 # The Pi-Eye – Text Reader and Picture Analyzer for Visually Impaired
 
-***[Click here to read the official, signed M.Sc. Thesis Report (PDF)](docs/Master_Thesis_Pi_Eye.pdf)***
+***[Click here to read the official Report (PDF)](docs/Master_Thesis_Pi_Eye.pdf)***
 
 ## Abstract
 
