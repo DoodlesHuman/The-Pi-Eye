@@ -38,6 +38,7 @@ Visually impaired individuals often struggle with conventional texts and have li
     * **NumPy:** Fundamental package for scientific computing with Python, especially for image data manipulation.
     * **Microsoft Azure Computer Vision API:** Used for object detection and labeling.
     * **simplejson:** For efficient JSON encoding/decoding.
+    * **RPi.GPIO:** Python module to control the GPIO on a Raspberry Pi.
 
 ## Setup Instructions
 
@@ -54,11 +55,14 @@ Visually impaired individuals often struggle with conventional texts and have li
 2.  **Python Environment:** Ensure Python 3 is installed.
 3.  **Install Dependencies:**
      
-     * Install dependencies  using pip:
+     * Install dependencies:
         ```bash
         pip install -r requirements.txt
         ```
-4.  **API Keys:** API keys for OCR-Space and Microsoft Azure Computer Vision API.
+        ```bash
+        sudo apt-get install mpg321
+        ```
+4.  **API Keys:** Include API keys in the code for OCR-Space and Microsoft Azure Computer Vision API.
 
 ## Future Scope
 
@@ -72,4 +76,4 @@ Visually impaired individuals often struggle with conventional texts and have li
 
 Submitted to St. Albert's College, Ernakulam, Kerala, (Mahatma Gandhi University, Kottayam) for the partial fulfilment of the awarding of degree of **Master of Science in Physics**
 
-March 2018
+April 2018
