@@ -1,5 +1,7 @@
 # The Pi-Eye – Text Reader and Picture Analyzer for Visually Impaired
 
+***[Click here to read the official, signed M.Sc. Thesis Report (PDF)](docs/Master_Thesis_Pi_Eye.pdf)***
+
 ## Abstract
 
 This project, "The Pi-Eye," addresses the challenges faced by visually impaired students by implementing a low-cost, handy text reader. It utilizes optical character recognition (OCR) and integrates it with a text-to-speech engine. The system is designed to improve accessibility through the application of hard keys and runs on a Raspberry Pi, leveraging the features of the Internet of Things (IoT). The project also includes functionality for object labeling.
