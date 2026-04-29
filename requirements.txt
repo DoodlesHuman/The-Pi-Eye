@@ -5,3 +5,4 @@ gTTS
 imutils
 requests
 picamera
+RPI.GPIO
