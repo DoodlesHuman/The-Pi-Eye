@@ -6,3 +6,4 @@ imutils
 requests
 picamera
 RPI.GPIO
+simplejson
